@@ -1,0 +1,18 @@
+.EditBlock{
+    padding: 30px 0;
+    text-align: center;
+}
+.category select{
+    padding: 10px;
+    margin-bottom: 10px;
+}
+.textInputs{
+    font-size: 20px;
+}
+.textInputs input{
+    padding: 10px;
+    margin-left: 20px;
+}
+.textInputs button{
+    padding: 10px;
+}
